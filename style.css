@@ -53,6 +53,10 @@ button{
     font-size: 20px;
     box-shadow: -8px -8px 15px rgba(255, 255, 255, 0.1);
     cursor: pointer;
+    position: relative;
+    z-index: 1;
+    overflow: visible;
+    transition: color 180ms ease, transform 180ms ease;
 }
 
 .equalBtn{
@@ -87,4 +91,44 @@ button{
 @media (max-width: 420px){
     input{ width: 260px; font-size: 34px }
     .projects-banner{ font-size: 16px; top: -32px }
+}
+
+/* Hover blurred red glow for buttons */
+button::before{
+    content: "";
+    position: absolute;
+    left: -10%;
+    top: -10%;
+    width: 120%;
+    height: 120%;
+    border-radius: 50%;
+    background: rgba(255, 0, 0, 0.22);
+    filter: blur(8px);
+    opacity: 0;
+    transform: scale(0.95);
+    transition: opacity 220ms ease, transform 220ms ease;
+    pointer-events: none;
+    z-index: 0;
+}
+
+button:hover{
+    color: #fff;
+    transform: translateY(-2px);
+}
+
+button:hover::before{
+    opacity: 1;
+    transform: scale(1);
+}
+
+/* Stronger glow for the equal button */
+.equalBtn::before{
+    background: rgba(255, 60, 60, 0.32);
+    filter: blur(10px);
+}
+
+/* Make sure the button text stays above the glow */
+button > *{
+    position: relative;
+    z-index: 2;
 }
