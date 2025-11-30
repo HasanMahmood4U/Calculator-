@@ -1,10 +1,37 @@
-Calculator code by Hasan mahmood
-Deployed at the same day when created.
+🧮 Simple Calculator App
 
-Deployment platform: GitHub
-Project DEMO : https://hasanmahmood4u.github.io/Calculator-/
+A responsive, functional web calculator built using standard web technologies. This project serves as a practical demonstration of basic arithmetic implementation and user interface design principles using HTML, CSS, and JavaScript.
 
+✨ Features
 
+Basic Arithmetic: Supports addition, subtraction, multiplication, and division.
 
+Clear and Reset: Functions for clearing the current input and resetting the entire calculation.
 
+Responsive Design: Optimized for use on both desktop and mobile devices.
 
+Intuitive UI: A clean and easy-to-use interface that mimics a standard calculator.
+
+🚀 Live Demo
+
+Check out the live version of the calculator and perform some calculations yourself!
+
+View Demo Here
+
+🛠️ Technology Stack
+
+This calculator is built using:
+
+HTML5: For the basic structure and layout.
+
+CSS3: For styling and ensuring responsiveness.
+
+JavaScript (Vanilla JS): For handling all the calculation logic and DOM manipulation.
+
+💡 Getting Started
+
+To run this project locally, simply clone the repository and open the index.html file in your web browser.
+
+git clone [https://github.com/hasanmahmood4u/Calculator-.git](https://github.com/hasanmahmood4u/Calculator-.git)
+cd Calculator-
+# Then open index.html in your browser
