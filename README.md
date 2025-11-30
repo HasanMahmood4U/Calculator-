@@ -1,8 +1,8 @@
-calculator code by Hasan mahmood
-deployed at the same day when created.
+Calculator code by Hasan mahmood
+Deployed at the same day when created.
 
-deployment platform: GitHub
-
+Deployment platform: GitHub
+Project DEMO : https://hasanmahmood4u.github.io/Calculator-/
 
 
 
