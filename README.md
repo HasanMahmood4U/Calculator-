@@ -23,9 +23,7 @@ View Demo Here :https://hasanmahmood4u.github.io/Calculator-/
 This calculator is built using:
 
 HTML5: For the basic structure and layout.
-
 CSS3: For styling and ensuring responsiveness.
-
 JavaScript (Vanilla JS): For handling all the calculation logic and DOM manipulation.
 
 💡 Getting Started
