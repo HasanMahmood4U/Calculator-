@@ -19,7 +19,6 @@ Check out the live version of the calculator and perform some calculations yours
 View Demo Here :https://hasanmahmood4u.github.io/Calculator-/
 
 🛠️ Technology Stack
-
 This calculator is built using:
 
 HTML5: For the basic structure and layout.
