@@ -1,9 +1,8 @@
-🧮 Simple Calculator App
+🧮Simple Calculator App
 
 A responsive, functional web calculator built using standard web technologies. This project serves as a practical demonstration of basic arithmetic implementation and user interface design principles using HTML, CSS, and JavaScript.
 
 ✨ Features
-
 Basic Arithmetic: Supports addition, subtraction, multiplication, and division.
 
 Clear and Reset: Functions for clearing the current input and resetting the entire calculation.
