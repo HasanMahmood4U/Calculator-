@@ -29,10 +29,7 @@ JavaScript (Vanilla JS): For handling all the calculation logic and DOM manipula
 
 💡 Getting Started
 with  a inspireing by a codewithherry
-
-
 To run this project locally, simply clone the repository and open the index.html file in your web browser.
-
 git clone  https://hasanmahmood4u.github.io/Calculator-/
 cd Calculator-
 # Then open index.html in your browser
