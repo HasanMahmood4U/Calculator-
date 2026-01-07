@@ -13,6 +13,7 @@ Responsive Design: Optimized for use on both desktop and mobile devices.
 Intuitive UI: A clean and easy-to-use interface that mimics a standard calculator.
 
 
+please visites once into the demo 
 
 🚀 Live Demo :
 https://hasanmahmood4u.github.io/Calculator-/
