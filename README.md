@@ -17,10 +17,7 @@ please visites once into the demo
 
 🚀 Live Demo :
 https://hasanmahmood4u.github.io/Calculator-/
-
-
-
-
+ 
 Check out the live version of the calculator and perform some calculations yourself!
 
 View Demo Here :https://hasanmahmood4u.github.io/Calculator-/
