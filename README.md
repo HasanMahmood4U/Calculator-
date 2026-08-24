@@ -25,13 +25,20 @@ View Demo Here :https://hasanmahmood4u.github.io/Calculator-/
 🛠️ Technology Stack
 
 This calculator is built using:
+
  
 HTML5: For the basic structure and layout.
+
 CSS3: For styling and ensuring responsiveness.
+
 JavaScript (Vanilla JS): For handling all the calculation logic and DOM manipulation.
+
+
  
 💡 Getting Started
 
+
+   
 with  a inspireing by a codewithherry
 To run this project locally, simply clone the repository and open the index.html file in your web browser.
 git clone  https://hasanmahmood4u.github.io/Calculator-/
