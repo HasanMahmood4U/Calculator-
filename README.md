@@ -3,6 +3,7 @@
 A responsive, functional web calculator built using standard web technologies. This project serves as a practical demonstration of basic arithmetic implementation and user interface design principles using HTML, CSS, and JavaScript.
 
 ✨ Features
+njnjjnj
 
 Basic Arithmetic: Supports addition, subtraction, multiplication, and division.
 
